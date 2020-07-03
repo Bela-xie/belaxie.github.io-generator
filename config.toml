@@ -1,0 +1,4 @@
+baseURL = "belaxie.github.io"
+languageCode = "zh-Hans"
+title = "My First Hugo Site"
+theme = "ananke"
