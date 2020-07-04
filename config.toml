@@ -1,4 +1,4 @@
 baseURL = "belaxie.github.io"
 languageCode = "zh-Hans"
-title = "My First Hugo Site"
+title = "bela的博客"
 theme = "ananke"
