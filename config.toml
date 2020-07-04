@@ -2,4 +2,3 @@ baseURL = "belaxie.github.io"
 languageCode = "zh-Hans"
 title = "bela的博客"
 theme = "ananke"
-uglyurls = true

@@ -8,10 +8,10 @@ draft: false
 查看[官方文档](https://gohugo.io/getting-started/installing)进行安装，以下步骤若有不清楚的地方，文档上有详细的安装步骤可进行查看。
 1. 点击来到[hugo release](https://github.com/gohugoio/hugo/releases)网页，查找最新版本，找到适用于本机系统的zip文件进行下载。
 2. 下载后进行解压，然后找到hugo.exe文件，复制存放该文件的路径，然后将该路径配置到本电脑的高级系统设置--环境变量--path中。例如我的存放路径为D:\Software\hugo，那么配置就如下图所示：
-   ![第一张配置图](../../static/image/1.png)
-   ![第二张配置图](../../static/image/2.png)
+   ![第一张配置图](/image/1.png)
+   ![第二张配置图](/image/2.png)
 3. 启动终端，运行hugo version，若返回安装的版本号，则代表安装成功。
-   ![第三张配置图](../../static/image/3.png)
+   ![第三张配置图](/image/3.png)
 
 # 二、搭建博客
 hugo官网上有很详细的步骤说明，点击进入[hugo官网](https://gohugo.io/)，点击Quick Start，启动终端，新建一个文件夹，然后依次执行官网上的step2~step7中的命令（step1已在第一步中执行），在终端运行命令的时候要注意将quick start重命名。
@@ -30,7 +30,7 @@ hugo官网上有很详细的步骤说明，点击进入[hugo官网](https://gohu
 
 ## step6：
 打开config.toml文件，进行配置，要将图中的baseURL改为自己github上的网址，将languageCode改为zh-Hans，title自定义自己想要的博客名称。
-![第四张图片](../../static/image/4.png)
+![第四张图片](/image/4.png)
 ## step7
 执行hugo -D，创建public文件。
 
